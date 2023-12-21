@@ -13,9 +13,10 @@ public class Main {
                 + "2- 8 GB RAM ekleme\n"
                 + "3- 16 GB RAM ekleme\n"
                 + "4- 32 GB RAM ekleme\n"
-                + "5-  2 TB SSD disk ekleme ve 8 GB RAM ekleme\n"
-                + "6-  512 GB SSD disk ekleme\n"
-                + "7-  1 TB SSD disk ekleme\n"
+                + "5- 2 TB SSD disk ekleme ve 8 GB RAM ekleme\n"
+                + "6- 512 GB SSD disk ekleme\n"
+                + "7- 1 TB SSD disk ekleme\n"
+                + "8- 2 TB SSD disk ekleme\n"
                 + "0 a basarak cikis yapabilirsiniz.");
         System.out.print("Lutfen yapmak istediğiniz bir işlem seciniz: ");
         
